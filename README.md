@@ -6,7 +6,7 @@
 - Instructor: Eric Maniraguha
 
 ## Group Members
-1. Justin Micomyiza – 29403
+1. MICOMYIZA Justin – 29403
 2. MUTESI Francine – 29342
 
 ## Project Description
