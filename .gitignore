@@ -1,17 +1,13 @@
-# Operating system files
-.DS_Store
-Thumbs.db
-
-# Editor files
-.vscode/
-.idea/
-
 # Temporary files
 *.log
 *.tmp
 *.bak
-*.swp
 
-# Oracle temporary files
-*.trc
-*.trm
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor files
+.vscode/
+.idea/
