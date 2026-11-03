@@ -58,3 +58,9 @@ to view execution messages.
 
 ## Documentation
 See `docs/IMPLEMENTATION_NOTES.md` for implementation details.
+
+## Project Testing and Validation
+
+The project includes test scripts to check the correctness of database procedures and functions.
+
+Testing helps identify errors and ensures that the PL/SQL programs produce the expected results.
